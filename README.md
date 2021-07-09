@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# dontnetcore_docker
-=======
-# docker4dotnet
->>>>>>> 797ca2335214f9db97d79ff7af6b2144cc670fb3
-=======
-# docker4dotnet
->>>>>>> 797ca2335214f9db97d79ff7af6b2144cc670fb3
+This is to just show that how to dockerize a asp.netcore app , there is two files one for production docker file and one is for devlopment.  
